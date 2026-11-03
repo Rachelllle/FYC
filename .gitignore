@@ -3,3 +3,4 @@ __pycache__/
 data/bronze/
 data/silver/
 data/iceberg_warehouse/
+data/raw/*.parquet
